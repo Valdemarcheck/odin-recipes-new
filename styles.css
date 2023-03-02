@@ -18,6 +18,10 @@ li {
     font-size: 17px;
 }
 
+ul li {
+    list-style-type: circle;
+}
+
 img {
     width: 500px;
     height: auto;
